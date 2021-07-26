@@ -1,6 +1,6 @@
 # Desafio - Desenvolvedor Python
 
-Parabens por ter chegado na etapa de teste técnico! Estamos muito felizes com o seu interesse em fazer parte da qflash.
+Parabéns por ter chegado na etapa de teste técnico! Estamos muito felizes com o seu interesse em fazer parte da qflash.
 
 O teste técnico que você vai fazer a seguir tem um prazo de **7 dias** pra ser concluído. Ele precisa ser feito em **Python** e ser entregue num repositório **Git**, mas fique à vontade pra usar as bibliotecas e tecnologias que você quiser.
 
