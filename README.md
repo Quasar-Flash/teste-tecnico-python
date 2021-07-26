@@ -20,7 +20,7 @@ Você foi contratado para fazer uma API para eles, e te deram o arquivo [pets.cs
 * A primeira etapa é desenvolver algo semelhante a um CRUD, que permite ler, adicionar, modificar e deletar a tabela de pets.
 
 Aqui vai uma sugestão de organização da API:
-```http
+```
 PUT /pet
 POST /pet
 GET /pet/{petId}
@@ -34,7 +34,7 @@ Para identificar melhor os cachorros, o pet shop achou uma boa ideia adicionar u
 
 Aqui vai uma sugestão de organização da API:
 
-```http
+```
 POST /picture/{petId}
 GET /picture/{petId}.png
 ```
@@ -46,7 +46,7 @@ Para manter a permanência desses dados e facilitar futuras migrações, o pet s
 * A terceira etapa consiste em desenvolver um **ou mais** endpoints para fazer o dump de todos os dados do banco, incluindo as fotos.
 
 Aqui vai uma sugestão de organização da API:
-```http
+```
 POST /dump.sql
 ```
 > Sugestão: envio de arquivos grandes com http streaming 
