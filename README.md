@@ -12,9 +12,9 @@ O teste é dividido em 3 partes, com graus de dificuldade variados. Se não cons
 
 ### Introdução 
 Um pet shop possui um hotel para cachorros e gostaria de automatizar o seu processo de cadastro. 
-Você foi contratado para fazer uma API para eles, e te deram o arquivo **"pets.csv"** com a tabela dos cachorros já cadastrados. 
+Você foi contratado para fazer uma API para eles, e te deram o arquivo [pets.csv](https://raw.githubusercontent.com/Quasar-Flash/teste-tecnico-python/master/pets.csv) com a tabela dos cachorros já cadastrados. 
 
-(uma cópia da mesma tabela também está presente no arquivo **"database.db"**)
+(uma cópia da mesma tabela também está presente no arquivo [database.db](https://raw.githubusercontent.com/Quasar-Flash/teste-tecnico-python/master/database.db))
 
 ### Parte 1
 * A primeira etapa é desenvolver algo semelhante a um CRUD, que permite ler, adicionar, modificar e deletar a tabela de pets.
@@ -59,7 +59,7 @@ Achariamos muito legal se você fizer alguma dessas coisas na sua solução:
 
 ---
 
-Caso algo tenha ficado confuso, você pode consultar os exemplos **"example/insomnia_export.json"** e **"example/postman_export.json"** no postman ou no insomnia para ver um exemplo das requests.
+Caso algo tenha ficado confuso, você pode consultar os exemplos [example/insomnia_export.json](https://raw.githubusercontent.com/Quasar-Flash/teste-tecnico-python/master/example/insomnia_export.json) e [example/postman_export.json](https://raw.githubusercontent.com/Quasar-Flash/teste-tecnico-python/master/example/postman_export.json) no postman ou no insomnia para ver um exemplo das requests.
 
 Se tiver alguma dúvida por favor fale com a gente no email do processo seletivo.
 
