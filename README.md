@@ -52,7 +52,7 @@ POST /dump.sql
 > Sugestão: envio de arquivos grandes com http streaming 
 
 ### Bônus
-Achariamos muito legal se você fizer alguma dessas coisas na sua solução:
+Acharíamos muito legal se você fizer alguma dessas coisas na sua solução:
 * utilizar recursos da AWS (EC2,S3,RDS, etc)
 * containerizar o projeto e providenciar dockerfile
 * fazer testes unitários pras funções do código
